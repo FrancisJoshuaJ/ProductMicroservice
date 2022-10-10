@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "spring.datasource.url-jdbc",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.url-jdbc'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpahibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpahibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.Jpahibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.Jpahibernate.ddl-auto'"
+  }
+]}
